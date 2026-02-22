@@ -6,3 +6,5 @@ na podstawie budżetu reklamowego (ad_budget) oraz liczby klientów (customers).
 
 Uruchomienie:
 python src/train.py
+
+zdalne repo kDS-3st-repo.git
